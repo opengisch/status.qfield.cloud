@@ -1,3 +1,5 @@
+![QFieldCloud logo](https://qfield.cloud/img/banner_tmp.png)
+
 # QFieldCloud API status
 
 ## dev.qfield.cloud
