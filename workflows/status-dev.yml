@@ -1,0 +1,10 @@
+name: dev.qfield.cloud APIs status
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  dev:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check
+        run: curl -f https://dev.qfield.cloud/api/v1/status/
