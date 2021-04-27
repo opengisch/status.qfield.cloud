@@ -1,4 +1,4 @@
-![QFieldCloud logo](https://qfield.cloud/img/banner_tmp.png)
+<img alt="QFieldCloud logo" src="https://qfield.cloud/img/logo_horizontal.svg" width="100%"/>
 
 # QFieldCloud API status
 
