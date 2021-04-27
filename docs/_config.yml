@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
-title: [QFieldCloud API statuses]
-description: [Reports live status of our QFieldCloud deployments. Updated every 5 minutes.]
-google_analytics: [G-BKCFE3NG5V]
+title: QFieldCloud API statuses
+description: Reports live status of our QFieldCloud deployments. Updated every 5 minutes.
+google_analytics: G-BKCFE3NG5V
